@@ -1,0 +1,14 @@
+673686482/win-kuu6lhkon75/idstar
+1D$+4r123
+
+Username = DARYTAMA
+Password = dary1234
+
+Username = HENDRA
+Password = hend1234 
+
+Ardian: username = ARDIAN
+Password = ardi1234
+
+Edi: Username = EDI
+Password = edi12345
